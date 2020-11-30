@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpsonsQuotes</string>
+    <string name="cantidad_de_frases">Cantidad de Frases</string>
+</resources>

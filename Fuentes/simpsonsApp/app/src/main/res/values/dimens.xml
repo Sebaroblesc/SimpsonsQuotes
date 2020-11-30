@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_toolbar">10dp</dimen>
+    <dimen name="text_label">25sp</dimen>
+    <dimen name="padding_left_principal">10dp</dimen>
+    <dimen name="text_boton">15sp</dimen>
+    <dimen name="texto_personaje">20sp</dimen>
+    <dimen name="texto_frase">24sp</dimen>
+    <dimen name="padding_textos">15dp</dimen>
+
+</resources>
